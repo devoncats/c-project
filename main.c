@@ -68,7 +68,7 @@ void main () {
         break;
 
       case 4: // Mesure glucose
-        // call function to mesure glucose
+        RegisterGlucose(&length);
         break;
 
       case 5: // Print report of a patient
